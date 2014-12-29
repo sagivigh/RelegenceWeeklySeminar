@@ -1,9 +1,6 @@
 
 # Mining of Massive Datasets - PageRank
 
-<img style="float:left" src="http://quantitativeeditor.com/wp-
-content/uploads/2014/01/mining-of-massive-datasets.jpg">
-
 
     import networkx as nx
 
